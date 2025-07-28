@@ -1,0 +1,58 @@
+BME680 async test
+Init Result: 0
+T1 = 26022
+T2 = 26581
+T3 = 3
+P1 = 37209
+P2 = -10432
+P3 = 88
+P4 = 9481
+P5 = -205
+P6 = 30
+P7 = 57
+P8 = -4465
+P9 = -1853
+P10 = 30
+H1 = 818
+H2 = 1002
+H3 = 0
+H4 = 45
+H5 = 20
+H6 = 120
+H7 = -100
+G1 = -50
+G2 = -13930
+G3 = 18
+G1 = -50
+G2 = -13930
+G3 = 18
+Heat Range = 1
+Heat Val = 46
+SW Error = 0
+SetConf Result: 0
+SetConf Result: 0
+SetConf Result: 0
+SetConf Result: 0
+SetConf Result: 0
+SetHeaterConf Result: 0
+Opmode Result: 0
+SetConf Result: 0
+SetConf Result: 0
+SetConf Result: 0
+SetConf Result: 0
+SetHeaterConf Result: 0
+Opmode Result: 0
+Reading started at 1157 and will finish at 1339
+You can do other work during BME680 measurement.
+Waiting (ms) 52
+t_fine = 0.00
+Getting sensor data
+GetData Result: 0
+data.status 0xB0
+Reading completed at 1421
+Temperature = 29.80 *C
+Pressure = 1000.65 hPa
+Humidity = 48.43 %
+Gas = 158.47 KOhms
+Approx. Altitude = Opmode Result: 0
+Waiting (ms) 182
